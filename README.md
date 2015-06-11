@@ -1,3 +1,5 @@
+** This has just been updated to use Ember 1.11 and ember-cli 0.2.3 as the originally fork wouldn't run without errors **
+
 # Ember-tab-example
 
 This README outlines the details of collaborating on this Ember application.
